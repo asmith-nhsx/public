@@ -1,1 +1,1 @@
-# Repository archived and moved to NHSX orghanisation https://github.com/nhsx/dt-public
+# Repository archived and moved to NHSX organisation https://github.com/nhsx/dt-public
